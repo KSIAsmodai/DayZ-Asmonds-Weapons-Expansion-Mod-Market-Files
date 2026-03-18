@@ -15,7 +15,9 @@
     "Categories": [
         "Asmond_Magazines",
         "Asmond_Buttstocks",
-        "Asmond_Handguards"
+        "Asmond_Handguards",
+		"Asmond_Muzzles",
+		"Asmond_Optics"
     ],
     "Items": {
         "universallight": 1,
